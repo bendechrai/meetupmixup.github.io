@@ -51,6 +51,13 @@ p.large {
     letter-spacing: 7px;
 }
 
+.brand-logo span{
+    position: absolute;
+    top: 1.1em;
+    right: 1em;
+    font-size: 1.3rem;
+}
+
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
 
 .span_h2 {font-weight: 300;color: #2196F3;}
